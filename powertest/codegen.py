@@ -3,7 +3,7 @@ import random
 
 N = 8
 M = 1000000
-uint = True
+uint = False
 
 if len(sys.argv) != 3:
     print("Usage: ", sys.argv[0], " matrixdim outerloopdim")
